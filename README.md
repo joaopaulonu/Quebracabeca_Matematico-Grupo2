@@ -171,9 +171,12 @@ Todas as operações e valores devem estar **visíveis no GeoGebra**.
 
 | Nome | RA | Contribuição |
 | :--- | :---: | :--- |
-| _Nome do integrante_ | _RA_ | _Ex.: pontos de inflexão_ |
-| _Nome do integrante_ | _RA_ | _Ex.: funções delimitadoras_ |
-| _Nome do integrante_ | _RA_ | _Ex.: encaixe aritmético_ |
+| João Paulo Nunes Andrade | 25002703 |
+| João Vitor Mariotto Cerqueira Leite  | 26006781 |
+| Gustavo Antoniazzi Gouvea Santos | 25007671 |
+| Giovana Dutra | 26021758 |
+
+
 
 ---
 
